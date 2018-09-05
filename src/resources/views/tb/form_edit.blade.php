@@ -1,4 +1,4 @@
-<div class="modal-body">
+<div class="modal-body Testing">
 
     <form id="edit_form_{{$def['db']['table']}}" class="smart-form" method="post" action="/admin/handle/{{$definitionName}}" novalidate="novalidate">
 

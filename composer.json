@@ -1,11 +1,11 @@
 {
-    "name": "devavada/builder_lara_5",
+    "name": "vis/builder_lara_5",
     "description": "Builder cms",
     "license": "proprietary",
     "authors": [
         {
-            "name": "devavada",
-            "email": "info@avada-media.com"
+            "name": "vis",
+            "email": "artur@vis-design.com"
         }
     ],
     "require": {
